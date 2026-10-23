@@ -1,0 +1,10 @@
+Hello World!
+This is a small example file for practicing file handling in Python.
+
+Python reads files line by line or all at once.
+Some special characters to test the encoding: Zürich, Grüezi, café, naïve.
+
+Numbers stay the same: 1, 2, 3, 42.
+Mixed CaSe TeXt will look interesting after the conversion.
+
+The last line ends here.
